@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Vlc Stream Demo</string>
+
+    <string name="link_demo_video">http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</string>
+
+</resources>
